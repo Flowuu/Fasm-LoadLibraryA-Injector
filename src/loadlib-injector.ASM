@@ -1,3 +1,6 @@
+; written by flowu
+
+
 format PE console    ; define PE file format
 
 include 'win32a.inc' ; include set of macros and definitions
