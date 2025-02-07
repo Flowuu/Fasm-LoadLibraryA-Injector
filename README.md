@@ -3,6 +3,7 @@ A simple x86 DLL injector written in [FASM (Flat Assembler)](https://flatassembl
 
 # Requirements
 - [FASM (Flat Assembler)](https://flatassembler.net) installed.
+- Windows OS
 
 # Usage
 - In the `.data` section, replace `processId dd 0` with the target process ID.
